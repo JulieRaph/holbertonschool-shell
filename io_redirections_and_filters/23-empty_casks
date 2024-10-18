@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | cut ^d \n | ls -laR  
+find . -empty | cut -d -f \n | ls -laR  
