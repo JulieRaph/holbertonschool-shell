@@ -1,1 +1,1 @@
-Description chaque script
+Description each script and command shell
