@@ -1,4 +1,4 @@
-Shell Project last 
+Description command BASH
 
 File init
 Variables
