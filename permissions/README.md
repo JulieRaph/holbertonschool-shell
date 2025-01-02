@@ -1,2 +1,2 @@
-#Permissions Shell
-##Command discover
+Permissions Shell
+
